@@ -1,7 +1,5 @@
-# Student-portal-demo-
-### Features:
-- Student login & profile management
-- Course registration system
-- Exam results & grades section
-- Notifications & announcements
-- Simple dashboard for students
+Student Application Portal
+Name: GOVARDHAN
+Suc: 2343230346
+Address: GAJUWAKA
+College Name: Aditya Degree College for GAJUWAKA
